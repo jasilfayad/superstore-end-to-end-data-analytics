@@ -26,7 +26,7 @@ This project presents an interactive Power BI dashboard built using the Sample S
 
 ## Dashboard Screenshot
 
-![Power BI Dashboard](dashboard_screenshot.png)
+![Power BI Dashboard](dashboard_screenshot.png.png)
 
 ## Purpose
 The objective of this dashboard is to transform sales data into meaningful visual insights and provide an interactive way to explore business performance.
